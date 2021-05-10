@@ -1,0 +1,39 @@
+{
+    "title": "服务器管理平台需求文档",
+    "author": "柯清源",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "description": "this is a gitbook doc",
+    "structure": {
+        "readme": "readme.md"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "-highlight",
+        "prism",
+        "prism-themes",
+        "-sharing",
+        "chapter-fold",
+        "page-toc-button",
+        "custom-favicon"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "prism": {
+          "css": [
+            "prism-themes/themes/prism-vsc-dark-plus.css"
+          ]
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
+        },
+        "favicon": "./img/favicon.png"
+    }
+}
+
+
