@@ -1,3 +1,5 @@
 # Build and Release Folders
-./_book/
-./gitbook/
+*.rar
+*.zip
+node_modules/
+_book/
