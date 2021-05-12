@@ -1,6 +1,6 @@
 # Summary
 
-* [引言](README.md)
+* [概要说明](README.md)
 * [模块说明](content/01_home.md)
 	* [首页](content/01_home.md)
 	* [统计管理](content/02_statistic.md)
