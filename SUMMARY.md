@@ -9,7 +9,7 @@
 	* [库存管理](content/05_store.md)
 	* [销售客户管理](content/06_sale_client.md)
 	* [销售管理](content/07_sale.md)
-	* [审核管理](content/08_audit_md)
+	* [审核管理](content/08_audit.md)
 	* [报价管理](content/09_offer.md)
 	* [销售竞价](content/10_sale_offer.md)
 	* [竞拍管理](content/11_auction.md)
