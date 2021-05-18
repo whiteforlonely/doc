@@ -1,6 +1,7 @@
 # Summary
 
 * [概要说明](README.md)
+* [业务规划图](content/00_struct.md)
 * [模块说明](content/01_home.md)
 	* [首页](content/01_home.md)
 	* [统计管理](content/02_statistic.md)
