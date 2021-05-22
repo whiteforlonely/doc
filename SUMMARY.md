@@ -7,7 +7,7 @@
 	* [首页](content/01_home.md)
 	* [统计管理](content/02_statistic.md)
 	* [供应商管理](content/03_supplier.md)
-	* [采购商管理](content/04_perchase.md)
+	* [采购管理](content/04_perchase.md)
 	* [库存管理](content/05_store.md)
 	* [销售客户管理](content/06_sale_client.md)
 	* [销售管理](content/07_sale.md)
